@@ -1,0 +1,67 @@
+2019-07-30T16:03:57.011Z - normal: Load ~/.CocosCreator/settings.json
+2019-07-30T16:03:58.174Z - normal: Initializing Asset Database
+2019-07-30T16:03:58.186Z - normal: checking language setting...
+2019-07-30T16:03:58.187Z - normal: Language: en
+2019-07-30T16:03:58.737Z - success: preview server running at http://localhost:7456
+2019-07-30T16:03:58.739Z - success: protocol editor-framework registered
+2019-07-30T16:03:58.739Z - success: protocol app registered
+2019-07-30T16:03:58.739Z - success: protocol theme registered
+2019-07-30T16:03:58.739Z - success: protocol packages registered
+2019-07-30T16:03:58.739Z - success: protocol uuid registerred
+2019-07-30T16:03:58.739Z - success: protocol db registerred
+2019-07-30T16:03:58.739Z - success: protocol thumbnail registerred
+2019-07-30T16:03:58.739Z - success: protocol unpack registerred
+2019-07-30T16:03:58.739Z - success: protocol disable-commonjs registerred
+2019-07-30T16:04:00.395Z - normal: connected!
+2019-07-30T16:04:00.398Z - normal: Check project G:\My Drive\Collabs and Videos\2019 colas and plans\cocos\video 4\start_project
+2019-07-30T16:04:00.406Z - normal: Initializing project G:\My Drive\Collabs and Videos\2019 colas and plans\cocos\video 4\start_project
+2019-07-30T16:04:00.765Z - normal: Initializing Cocos2d
+2019-07-30T16:04:01.539Z - normal: Initializing engine extends
+2019-07-30T16:04:01.563Z - success: asset-db-debugger loaded
+2019-07-30T16:04:01.565Z - success: baidu-adapter loaded
+2019-07-30T16:04:01.566Z - success: color-picker loaded
+2019-07-30T16:04:01.647Z - success: fb-audience-network loaded
+2019-07-30T16:04:01.691Z - success: fb-live-stream loaded
+2019-07-30T16:04:01.694Z - success: google-play-instant loaded
+2019-07-30T16:04:01.699Z - success: huawei-runtime loaded
+2019-07-30T16:04:01.700Z - success: jsb-adapter loaded
+2019-07-30T16:04:01.703Z - success: oppo-runtime loaded
+2019-07-30T16:04:01.705Z - success: package-manager loaded
+2019-07-30T16:04:01.809Z - success: qqplay-adapter loaded
+2019-07-30T16:04:01.810Z - success: runtime-dev-tools loaded
+2019-07-30T16:04:01.814Z - success: sdkbox loaded
+2019-07-30T16:04:01.816Z - success: tester loaded
+2019-07-30T16:04:01.817Z - success: ui-grid loaded
+2019-07-30T16:04:01.819Z - success: ui-kit-preview-extra loaded
+2019-07-30T16:04:01.821Z - success: ui-kit-preview loaded
+2019-07-30T16:04:01.822Z - success: ui-kit loaded
+2019-07-30T16:04:01.823Z - success: ui-tree loaded
+2019-07-30T16:04:01.827Z - success: vivo-runtime loaded
+2019-07-30T16:04:01.827Z - success: weapp-adapter loaded
+2019-07-30T16:04:01.865Z - success: assets loaded
+2019-07-30T16:04:01.866Z - success: builder loaded
+2019-07-30T16:04:02.089Z - success: cocos-services loaded
+2019-07-30T16:04:02.092Z - success: console loaded
+2019-07-30T16:04:02.121Z - success: fb-instant-games loaded
+2019-07-30T16:04:02.124Z - success: game-window loaded
+2019-07-30T16:04:02.125Z - success: google-instant-games loaded
+2019-07-30T16:04:02.128Z - success: hierarchy loaded
+2019-07-30T16:04:02.130Z - success: inspector loaded
+2019-07-30T16:04:02.131Z - success: keystore loaded
+2019-07-30T16:04:02.134Z - success: node-library loaded
+2019-07-30T16:04:02.136Z - success: package-asset loaded
+2019-07-30T16:04:02.137Z - success: preferences loaded
+2019-07-30T16:04:02.139Z - success: project-exporter loaded
+2019-07-30T16:04:02.141Z - success: project-importer loaded
+2019-07-30T16:04:02.143Z - success: project-settings loaded
+2019-07-30T16:04:02.146Z - success: scene loaded
+2019-07-30T16:04:02.149Z - success: simulator-debugger loaded
+2019-07-30T16:04:02.151Z - success: sprite-editor loaded
+2019-07-30T16:04:02.154Z - success: store loaded
+2019-07-30T16:04:02.157Z - success: timeline loaded
+2019-07-30T16:04:02.197Z - success: bcx loaded
+2019-07-30T16:04:04.765Z - info: Cocos Services load base data!
+2019-07-30T16:04:05.869Z - normal: Loading packages
+2019-07-30T16:04:05.913Z - normal: Watching packages
+2019-07-30T16:04:06.257Z - normal: Run Application
+2019-07-30T16:04:14.853Z - info: shutdown preview server
